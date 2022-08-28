@@ -6,3 +6,7 @@ typoMeter is a Desktop Application which can be used to assess the Typing Speed 
 Technologies Used:
 1. Core Java
 2. MySQL 
+
+Application Demo Video:
+https://user-images.githubusercontent.com/81524682/187061407-efef2d51-c1ea-4378-bf5a-befd00450052.mp4
+
